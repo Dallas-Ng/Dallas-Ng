@@ -16,4 +16,4 @@ You can view my portfolio @ [dallasng.me](https://dallasng.me)
 ### Stats
 [![Dallas' top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dallas-ng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dallas' github stats](https://github-readme-stats.vercel.app/api?username=dallas-ng&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Dallas' github stats](https://github-readme-stats.vercel.app/api?username=dallas-ng&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
