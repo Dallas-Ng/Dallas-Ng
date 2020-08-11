@@ -16,5 +16,5 @@ You can view my portfolio @ [dallasng.me](https://dallasng.me)
 ### Stats
 <div>
 <img align="left" alt="Dallas Ng's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dallas-ng&show_icons=true&hide_border=true" />
-<img align="right" alt="Dallas Ng's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallas-ng&hide_border=true&layout=compact" />
+<img align="right" alt="Dallas Ng's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dallas-ng&hide_border=true&hide />
 </div>
