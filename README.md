@@ -4,10 +4,6 @@ I am <b>Dallas</b>, a <b>Full Stack Developer</b> @ <b>StoneForest IT</b> and <b
 ### Portfolio
 You can view my portfolio @ [dallasng.me](https://dallasng.me)
 
-### Featured Projects
-- [Steam Account Switcher](https://github.com/Dallas-Ng/Steam-Account-Switcher): A account switcher for the gaming platform Steam
-- [SmallHabitsBigChange](https://smallhabitsbigchange.com): A comissioned project for a Public Utilties Board competition (Top 5)
-
 ### Contact Me
 [Email](mailto:ngdallas1@gmail.com), [LinkedIn](https://www.linkedin.com/in/dallas-ng/)
 
