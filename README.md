@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Engineer and co-founder.
+    Hi 👋, I'm Dallas
     <br><br>
     I like making things work. I have been a founding engineer a few times, most recently as co-founder at a fintech.
     <br><br>
